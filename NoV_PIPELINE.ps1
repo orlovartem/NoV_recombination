@@ -52,9 +52,7 @@ python ($PATH_SCRIPTS + 'gap_in_row.py') -input ($IN_GB_FILE.split('.')[0] + '_f
 Out-Host -InputObject '==========> REMOVE SIMILAR'
 
 python ($PATH_SCRIPTS + 'remove_similar.py') -input ($IN_GB_FILE.split('.')[0] + '_full_aln_' + $GAPS_IN_ROW_TO_REMOVE + 'gp.fasta') -min $MIN_REMOVE_SIMILAR -max $MAX_REMOVE_SIMILAR
-#mkdir $path_dir + 'genotyped'
-#cp ($IN_GB_FILE.split('.')[0] + '_full_aln_' + $GAPS_IN_ROW_TO_REMOVE + 'gp_' + $MIN_REMOVE_SIMILAR + '.fasta') ($path_dir + 'genotyped')
-#python ($PATH_SCRIPTS + 'genotyping.py') 
+
 if ($args[0] -eq '-clear')
 {
 	rm ($path_dir + 'norovirus_less_amb*')
