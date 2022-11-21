@@ -1,0 +1,115 @@
+(^|\s|\()unknown($|\s|\)|;),NA
+(^|\s|\()alpaca($|\s|\)|;),alpaca
+(^|\s|\()Anas gracilis($|\s|\)|;),duck
+(^|\s|\()Ankole cow($|\s|\)|;),cow
+(^|\s|\()antelope($|\s|\)|;),antelope
+(^|\s|\()Apodemus agrarius($|\s|\)|;),mouse
+(^|\s|\()Apodemus chevrieri($|\s|\)|;),mouse
+(^|\s|\()Apodemus sylvaticus($|\s|\)|;),mouse
+(^|\s|\()Aselliscus stoliczkanus($|\s|\)|;),bat
+(^|\s|\()bat($|\s|\)|;),bat
+(^|\s|\()Bos($|\s|\)|;),cow
+(^|\s|\()bovine($|\s|\)|;),cow
+(^|\s|\()Branta canadensis($|\s|\)|;),goose
+(^|\s|\()broiler($|\s|\)|;),chicken
+(^|\s|\()Bubalus($|\s|\)|;),buffalo
+(^|\s|\()Bubalus-bubalis($|\s|\)|;),buffalo
+(^|\s|\()[Bb]uffalo($|\s|\)|;),buffalo
+(^|\s|\()bullock($|\s|\)|;),cattle
+(^|\s|\()Calidris acuminata($|\s|\)|;),sandpiper
+(^|\s|\()[Cc]amel($|\s|\)|;),camel
+(^|\s|\()[Cc]amelus dromedarius($|\s|\)|;),camel
+(^|\s|\()Canis lupus familiaris($|\s|\)|;),dog
+(^|\s|\()canine($|\s|\)|;),dog
+(^|\s|\()Capra aegagrus hircus($|\s|\)|;),goat
+(^|\s|\()cat($|\s|\)|;),cat
+(^|\s|\()[Cc]attle($|\s|\)|;),cattle
+(^|\s|\()Chaerephon plicata($|\s|\)|;),bat
+(^|\s|\()chicken($|\s|\)|;),chicken
+(^|\s|\()Chlorocebus aethiops($|\s|\)|;),grivet
+(^|\s|\()civet($|\s|\)|;),civet
+(^|\s|\()moorhen($|\s|\)|;),moorhen
+(^|\s|\()Cynopterus sphinx($|\s|\)|;),bat
+(^|\s|\()Delphinapterus leucas \(beluga whale\)($|\s|\)|;),beluga
+(^|\s|\()Didelphis aurita($|\s|\)|;),possum
+(^|\s|\()dog($|\s|\)|;),dog
+(^|\s|\()dromedary($|\s|\)|;),camel
+(^|\s|\()duck($|\s|\)|;),duck
+(^|\s|\()Equus caballus adult($|\s|\)|;),horse
+(^|\s|\()Erinaceus($|\s|\)|;),hedgehog
+(^|\s|\()feline($|\s|\)|;),cat
+(^|\s|\()Felis catus($|\s|\)|;),cat
+(^|\s|\()ferret($|\s|\)|;),ferret
+(^|\s|\()Gallus($|\s|\)|;),chicken
+(^|\s|\()gazelle($|\s|\)|;),gazelle
+(^|\s|\()giraffe($|\s|\)|;),giraffe
+(^|\s|\()goat($|\s|\)|;),goat
+(^|\s|\()Hipposideros($|\s|\)|;),bat
+(^|\s|\()human($|\s|\)|;),human
+(^|\s|\()Homo sapiens($|\s|\)|;),human
+(^|\s|\()Homo sapiens, enteron($|\s|\)|;),human
+(^|\s|\()Hydropotes inermis \(water deer\)($|\s|\)|;),deer
+(^|\s|\()himalayan marmot($|\s|\)|;),marmot
+(^|\s|\()Hypsugo savii($|\s|\)|;),bat
+(^|\s|\()Lama glama($|\s|\)|;),lama
+(^|\s|\()large pig roundworm($|\s|\)|;),roundworm
+(^|\s|\()Macaca mulatta($|\s|\)|;),rhesusmacaque
+(^|\s|\()magpie-robin($|\s|\)|;),magpie-robin
+(^|\s|\()microbat($|\s|\)|;),bat
+(^|\s|\()Miniopterus($|\s|\)|;),bat
+(^|\s|\()Neovison vison($|\s|\)|;),mink
+(^|\s|\()mink($|\s|\)|;),mink
+(^|\s|\()mouse($|\s|\)|;),mouse
+(^|\s|\()murine($|\s|\)|;),mouse
+(^|\s|\()Mus musculus($|\s|\)|;),mouse
+(^|\s|\()Mustela($|\s|\)|;),ferret
+(^|\s|\()Myotis($|\s|\)|;),bat
+(^|\s|\()Neoromicia capensis($|\s|\)|;),bat
+(^|\s|\()night-heron($|\s|\)|;),night-heron
+(^|\s|\()Niviventer confucianus($|\s|\)|;),rat
+(^|\s|\()Nyctalus velutinus($|\s|\)|;),bat
+(^|\s|\()Oryctolagus cuniculus($|\s|\)|;),rabbit
+(^|\s|\()ovine($|\s|\)|;),sheep
+(^|\s|\()Paguma larvata($|\s|\)|;),civet
+(^|\s|\()palm civet($|\s|\)|;),civet
+(^|\s|\()Pan troglodytes($|\s|\)|;),chimpanzee
+(^|\s|\()chimpanzee($|\s|\)|;),chimpanzee
+(^|\s|\()chimp($|\s|\)|;),chimp
+(^|\s|\()Papio anubis($|\s|\)|;),baboon
+(^|\s|\()Pheasant($|\s|\)|;),pheasant
+(^|\s|\()pig(let)*($|\s|\)|;),pig
+(^|\s|\()Pipistrellus($|\s|\)|;),bat
+(^|\s|\()[Pp]orcine($|\s|\)|;),pig
+(^|\s|\()porcine($|\s|\)|;),pig
+(^|\s|\()rat($|\s|\)|;),rat
+(^|\s|\()[Rr]attus($|\s|\)|;),rat
+(^|\s|\()Rhesus monkey($|\s|\)|;),rhesusmacaque
+(^|\s|\()Rhin[io]lophus($|\s|\)|;),bat
+(^|\s|\()Rhinopoma($|\s|\)|;),bat
+(^|\s|\()Rousettus($|\s|\)|;),bat
+(^|\s|\()sambar deer($|\s|\)|;),deer
+(^|\s|\()Scotophilus kuhlii($|\s|\)|;),bat
+(^|\s|\()sewage($|\s|\)|;),sewage
+(^|\s|\()shellfish($|\s|\)|;),shellfish
+(^|\s|\()sheep($|\s|\)|;),sheep
+(^|\s|\()sparrow($|\s|\)|;),sparrow
+(^|\s|\()stool($|\s|\)|;),stool
+(^|\s|\()Suncus murinus($|\s|\)|;),shrew
+(^|\s|\()Sus[ _][Ss]crofa($|\s|\)|;),pig
+(^|\s|\()swine($|\s|\)|;),pig
+(^|\s|\()Syncerus caffer($|\s|\)|;),buffalo
+(^|\s|\()Tadorna tadornoides($|\s|\)|;),shelduck
+(^|\s|\()Triaenops afer($|\s|\)|;),bat
+(^|\s|\()Tupaia($|\s|\)|;),tupaia
+(^|\s|\()turkey($|\s|\)|;),turkey
+(^|\s|\()Tylonycteris($|\s|\)|;),bat
+(^|\s|\()Vespertilio superans($|\s|\)|;),bat
+(^|\s|\()Vicugna pacos($|\s|\)|;),alpaca
+(^|\s|\()waterbuck($|\s|\)|;),waterbuck
+(^|\s|\()white-eye($|\s|\)|;),white-eye
+(^|\s|\()white-tailed deer($|\s|\)|;),deer
+(^|\s|\()wigeon($|\s|\)|;),wigeon
+(^|\s|\()wild boar($|\s|\)|;),pig
+(^|\s|\()woodchuck($|\s|\)|;),marmot
+(^|\s|\()yak($|\s|\)|;),yak
+(^|\s|\()Zalophus californianus \(California sea lion\)($|\s|\)|;),sealion
